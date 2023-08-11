@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>co.edu.javeriana.sistemas.ingsoft</groupId>
-  <artifactId>MvnTestSetup</artifactId>
+  <artifactId>CalculoPromedioPonderado</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>MvnTestSetup</name>
+  <name>CalculoPromedioPonderado</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -27,8 +27,11 @@
       <artifactId>junit-jupiter-engine</artifactId>
       <version>5.8.2</version>
     </dependency>
-
-
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-base</artifactId>
+      <version>20.0.1</version>
+    </dependency>
 
 
   </dependencies>
