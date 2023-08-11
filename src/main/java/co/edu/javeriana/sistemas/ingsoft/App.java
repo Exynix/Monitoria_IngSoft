@@ -31,6 +31,17 @@ public class App
         courseCredits = scanner.nextInt();
         System.out.println("Numero de creditos totales aprovados: ");
         totalCreditsApproved = scanner.nextInt();
+
+        calculateWeightedAverage();
+    }
+
+    public float calculateWeightedAverage(float courseGrade, int courseCredits, int totalCreditsApproved){
+
+        float weightedAverage;
+
+        weightedAverage = (courseCredits * courseCredits)/totalCreditsApproved;
+
+        return weightedAverage;
     }
 
 }
