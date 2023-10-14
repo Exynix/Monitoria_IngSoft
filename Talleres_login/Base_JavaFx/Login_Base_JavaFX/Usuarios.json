@@ -1,0 +1,42 @@
+[
+  {
+    "numeroDocumento": "123456789",
+    "nombre": "Andres",
+    "apellido": "Barrera",
+    "correo": "a.barrera@javeriana.edu.co",
+    "credenciales": {
+      "nombreUsuario": "a.barrera",
+      "contrasenna": "123456789"
+    }
+  },
+  {
+    "numeroDocumento": "123456789",
+    "nombre": "Andres",
+    "apellido": "Barrera",
+    "correo": "a.barrera@javeriana.edu.co",
+    "credenciales": {
+      "nombreUsuario": "a.barrera",
+      "contrasenna": "123456789"
+    }
+  },
+  {
+    "numeroDocumento": "123456789",
+    "nombre": "Andres",
+    "apellido": "Barrera",
+    "correo": "a.barrera@javeriana.edu.co",
+    "credenciales": {
+      "nombreUsuario": "a.barrera",
+      "contrasenna": "123456789"
+    }
+  },
+  {
+    "numeroDocumento": "123456789",
+    "nombre": "Andres",
+    "apellido": "Barrera",
+    "correo": "a.barrera@javeriana.edu.co",
+    "credenciales": {
+      "nombreUsuario": "a.barrera",
+      "contrasenna": "123456789"
+    }
+  }
+]
